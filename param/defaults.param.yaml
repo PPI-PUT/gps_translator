@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    gps_sub_topic: "/gps_top/gps"
+    gps_pub_topic: "/gps_top/gps/translated"

@@ -1,5 +1,5 @@
 # gps_translator
-Simple package translator from gps_msgs to sensor_msgs.
+Simple message translator from gps_msgs to sensor_msgs.
 
 ## Installation
 Clone the package to your ROS 2 workspace and build it uisng the colcon build system.
